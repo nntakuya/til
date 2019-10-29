@@ -6,4 +6,5 @@
 2. `$this->call()`を利用する場合
 3. `Aritsan::call()`を利用する場合
 
-
+## 参考URL
+- [artisanコマンドからartisanコマンドを呼び出す方法の比較](https://qiita.com/orange634nty/items/9cbcc5cbe9174966a74b)
