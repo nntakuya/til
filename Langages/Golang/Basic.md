@@ -76,4 +76,5 @@ go run main.go
 ## 参考文献
 - [go run と go buildの違い](http://nununu.hatenablog.jp/entry/2016/09/20/210000)
 - [他言語プログラマがgolangの基本を押さえる為のまとめ](https://qiita.com/tfrcm/items/e2a3d7ce7ab8868e37f7)
+- [他言語から来た人がGoを使い始めてすぐハマったこととその答え](https://qiita.com/mumoshu/items/0d2f2a13c6e9fc8da2a4)
 
